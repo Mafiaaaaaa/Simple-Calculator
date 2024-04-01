@@ -6,7 +6,7 @@
   "type": "module",
   "bin": "main.js",
   "name": "shaheer_simple_calculator",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "main": "main.js",
   "dependencies": {
     "inquirer": "^9.2.15",

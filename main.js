@@ -1,4 +1,4 @@
-#! /usr /bin/env node
+#! /usr/bin/env node
 console.log("Welcome to Shaheer's Simple Calculator");
 import inquirer from "inquirer";
 let answer = await inquirer.prompt([
